@@ -1,0 +1,14 @@
+/* <?php include 'php.php; ?> */
+.flag-container{
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    display:block;
+    background: rgb(223, 182, 182);
+}
+.flag-color{
+    /* height: calc(100% / 3) ; */
+    height: 30vh;
+    width: 70vw;
+
+}
